@@ -1,0 +1,38 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Welcome to my Node.js REST API project! This project serves as a demonstration of my backend development skills using Node.js, Express, TypeScript, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lo-Mein/node-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lo-Mein/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/Lo-Mein/node-rest-api#readme",
+  "devDependencies": {
+    "@types/body-parser": "^1.19.3",
+    "@types/compression": "^1.7.3",
+    "@types/cookie-parser": "^1.4.4",
+    "@types/cors": "^2.8.14",
+    "@types/express": "^4.17.18",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
