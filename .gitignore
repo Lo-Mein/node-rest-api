@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Output of build tools
+dist/
+build/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
